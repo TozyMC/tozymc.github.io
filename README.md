@@ -10,4 +10,4 @@
 - [1.13.2](https://tozymc.github.io/javadocs/spigot/1.13/)
 - [1.14.4](https://tozymc.github.io/javadocs/spigot/1.14/)
 - [1.15.2](https://tozymc.github.io/javadocs/spigot/1.15/)
-- [1.16.3](https://tozymc.github.io/javadocs/spigot/1.16/)
+- [1.16.5](https://tozymc.github.io/javadocs/spigot/1.16/)
